@@ -6,23 +6,23 @@
 
 var arr = ["abc", "dsa", "kiu"]
 
-for(i=0; i<arr.length; i++){
+for (i = 0; i < arr.length; i++) {
     // console.log(arr[i]);
-    for(j=0; j<arr[i].length[i]; i++){
-        if(arr[i][i] === "a") {
+    for (j = 0; j < arr[i].length[i]; i++) {
+        if (arr[i][i] === "a") {
             continue;
         }
-        else{
+        else {
             console.log(arr)
         }
-        
+
         continue;
         // console.log(arr)
 
         // console.log(0)
 
     }
-//     // console.log(arr)
+    //     // console.log(arr)
 }
 
 // // console.log(arr)
