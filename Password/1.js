@@ -16,10 +16,10 @@ for(i=0; i<arr.length; i++){
             console.log(arr)
         }
         
-        // continue;
-        // console.log(arr)
+        continue;
+        console.log(arr)
 
-        // console.log(0)
+        console.log(0)
 
     }
 //     // console.log(arr)
