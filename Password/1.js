@@ -33,9 +33,9 @@ for(i=0; i<arr.length; i++){
 
 
 
-// // var newString = arr.replace("c", "")
+var newString = arr.replace("c", "")
 
-// // console.log(newString)
+console.log(newString)
 
 
 
