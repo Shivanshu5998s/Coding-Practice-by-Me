@@ -2,7 +2,7 @@
 
 // Write, Edit and Run your Javascript code using JS Online Compiler
 
-// console.log("Welcome to Programiz!");
+console.log("Welcome to Programiz!");
 
 
 var arr = ["abc", "dsa", "kiu"];
